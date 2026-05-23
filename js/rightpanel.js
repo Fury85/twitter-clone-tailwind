@@ -88,7 +88,7 @@ const rightPanelHTML = `
             
             <div class="follow-card">
                 <div class="avatar-md overflow-hidden">
-                    <img src="/assets/images/anees.jpeg" alt="Muhammad Anees" class="w-full h-full object-cover">
+                    <img src="../assets/images/anees.jpeg" alt="Muhammad Anees" class="w-full h-full object-cover">
                 </div>
                 <div>
                     <h3 class="font-bold">Muhammad Anees</h3>
@@ -103,7 +103,7 @@ const rightPanelHTML = `
 
             <div class="follow-card my-5">
                 <div class="img-box avatar-md overflow-hidden">
-                    <img src="/assets/images/zargham.jpeg" alt="Zargham Ali" class="w-full h-full object-cover">
+                    <img src="../assets/images/zargham.jpeg" alt="Zargham Ali" class="w-full h-full object-cover">
                 </div>
                 <div>
                     <h3 class="font-bold">Zargham Ali</h3>
@@ -118,7 +118,7 @@ const rightPanelHTML = `
 
             <div class="follow follow-card">
                 <div class="img-box avatar-md overflow-hidden">
-                    <img src="/assets/images/haider.jpeg" alt="Haider Farooq" class="w-full h-full object-cover">
+                    <img src="../assets/images/haider.jpeg" alt="Haider Farooq" class="w-full h-full object-cover">
                 </div>
                 <div>
                     <h3 class="font-bold">Haider Farooq</h3>
