@@ -2,7 +2,7 @@
 
 A fully responsive X (Twitter) clone built with HTML, Tailwind CSS and JavaScript. This project recreates the core user interface of X (formerly Twitter), including navigation, feed layout, notifications, messaging interface and profile sections while maintaining a mobile-first responsive design.
 
-## 🚀Features
+## 🚀 Features
 - Fully responsive layout
 - Responsive sidebar and bottom navigation
 - Dynamic active navigation states
@@ -14,11 +14,7 @@ A fully responsive X (Twitter) clone built with HTML, Tailwind CSS and JavaScrip
 - Profile page
 - Responsive post cards
 - Reusable utility and component classes
-- Mobile, tablet, and desktop support
-- Tech Stack
-- HTML5
-- Tailwind CSS
-- JavaScript
+- Mobile, tablet, and desktop support 
 
 
 ## ⌨️ Tech Stack 
@@ -84,9 +80,12 @@ This project improved my understanding of:
 
 
 ## 🌐 Live Demo 
-![View Live Demo](https://xclone-twitter.netlify.app/index.html)
+[View Live Demo](https://xclone-twitter.netlify.app/index.html)
 
 ## 👨‍💻 Author
-Muhammad Farhan
+
+**Muhammad Farhan**
+
+Frontend Developer
 
 GitHub: https://github.com/Fury85
